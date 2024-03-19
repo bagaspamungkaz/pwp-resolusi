@@ -2,3 +2,4 @@ PWP RESOLUTION
 - Consistent for study of Software Engineer
 - Projects: Portfolio, Coffee Shop, E-commerce Application
 - Collaboration with more experts
+- IoT Project: Sensor devices, servo machines, machine learning
